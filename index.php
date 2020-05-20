@@ -37,7 +37,7 @@
     <h3 style='color:white;'>Make your move.</h3>
 </main>
 
-
+<?php include "email.php"?>
 <script src="app.js"></script>
 </body>
   
